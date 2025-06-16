@@ -227,8 +227,11 @@ Automated reconnaissance toolkit:
   <img src="https://github-readme-stats.vercel.app/api?username=programwithshyam&show_icons=true&theme=tokyonight&hide_border=true&icon_color=FF3131&title_color=FF3131&text_color=ffffff" height="140">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=programwithshyam&theme=tokyonight&hide_border=true" height="140">
 </p>
+### ⚡ Coding Activity  
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=programwithshyam&theme=tokyo-night" height="140"/>
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph" target="_blank">
+    <img src="https://github-readme-activity-graph.cyclic.app/graph?username=programwithshyam&theme=tokyo-night" height="140"/>
+  </a>
 </p>
 
 ---
