@@ -63,7 +63,7 @@
 ### SYSTEM PROFILE: SHYAM KUMAR
 
 ```bash
-[ID]       : Shyam Kumar
+[ID]       : Nitin kumar
 [LEVEL]    : Root / Black Hat
 [OCCUPATION] : BCA Operative (Software Engineering)
 [SKILLS]   : HTML | CSS | JS | Linux | Bash | CTF | Git | Recon | Red Team | Exploit Dev
